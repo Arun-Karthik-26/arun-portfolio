@@ -98,7 +98,7 @@ function Contact() {
       </div>
       </div>
       <div className='footer'>
-        <h1>Designed and Developed by <span>Arun Karthik</span></h1>
+        <h1>Designed and Developed by <span>@Arun Karthik </span></h1>
       </div>
     </div>
   );
